@@ -1,0 +1,11 @@
+get http://localhost:1337/api/recipe/hello
+
+###
+
+get http://localhost:1337/api/recipes/
+
+###
+get http://localhost:1337/api/recipe/globalpolicy
+
+###
+get http://localhost:1337/api/recipe/apipolicy

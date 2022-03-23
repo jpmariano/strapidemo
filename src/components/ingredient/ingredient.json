@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_ingredient_ingredients",
+  "info": {
+    "displayName": "Ingredient",
+    "icon": "book-open"
+  },
+  "options": {},
+  "attributes": {
+    "Item": {
+      "type": "string"
+    },
+    "Measure": {
+      "type": "string"
+    },
+    "Weight": {
+      "type": "string"
+    },
+    "Approx_issue": {
+      "type": "string"
+    }
+  }
+}

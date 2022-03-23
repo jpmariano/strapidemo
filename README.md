@@ -55,3 +55,8 @@ Feel free to check out the [Strapi GitHub repository](https://github.com/strapi/
 ---
 
 <sub>🤫 Psst! [Strapi is hiring](https://strapi.io/careers).</sub>
+
+## Notes
+
+  Strapi CLI Installation - npm install strapi@alpha -g
+  refernce: https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html#strapi-new
